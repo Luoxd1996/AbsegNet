@@ -12,8 +12,7 @@ Comprehensive evaluation of a deep learning model for automatic organs at risk s
     Job Title: (E.g., Professor, Associate Professor, Ph.D., etc.)
     Affiliation Email: (the password will be sent to this email, we just reply to the email which is the end of "edu".)
     How to use: (Only for academic research, not for commercial use or second-development.)
-
-
+    
 
 ## How to use
 ### 1. Before you can use this package for NPC segmentation. You should install:
