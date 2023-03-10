@@ -3,8 +3,7 @@ Comprehensive evaluation of a deep learning model for automatic organs at risk s
 
 ## Notes
 * This work was modified from [nnUNet](https://github.com/MIC-DKFZ/nnUNet).
-* Due to data privacy protection, we can not release all-used hospital datasets, but we released 170 cases for academic research:
-* Please contact Xiangde (luoxd1996 AT gmail DOT com) for the dataset or download from [Goole Driven](https://drive.google.com/drive/folders/16qwlCxH7XtJD9MyPnAbmY4ATxu2mKu67?usp=sharing).
+* Due to data privacy protection, we can not release all-used hospital datasets, but we released 170 cases for academic research: please contact Xiangde (luoxd1996 AT gmail DOT com) for the dataset or download from [Goole Driven](https://drive.google.com/drive/folders/16qwlCxH7XtJD9MyPnAbmY4ATxu2mKu67?usp=sharing).
 
 ## How to use
 ### 1. Before you can use this package for NPC segmentation. You should install:
