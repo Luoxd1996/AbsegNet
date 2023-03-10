@@ -6,7 +6,7 @@ Comprehensive evaluation of a deep learning model for automatic organs at risk s
 * Due to data privacy protection, we can not release all-used hospital datasets, but we released 170 cases for academic research: please contact Xiangde (luoxd1996 AT gmail DOT com) for the dataset or download from [Goole Driven](https://drive.google.com/drive/folders/16qwlCxH7XtJD9MyPnAbmY4ATxu2mKu67?usp=sharing).
 
 ## How to use
-### 1. Before you can use this package for NPC segmentation. You should install:
+### 1. Before you can use this package for abdominal OARs segmentation. You should install:
 * PyTorch version >=1.8
 * Some common python packages such as Numpy, SimpleITK, OpenCV, Scipy......
 ### 2. Run the inference script.
