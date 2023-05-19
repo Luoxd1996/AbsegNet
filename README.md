@@ -1,5 +1,5 @@
 # AbsegNet
-Comprehensive evaluation of a deep learning model for automatic organs at risk segmentation on heterogeneous computed tomography images for abdominal radiotherapy (Accepted to [International Journal of Radiation Oncology*Biology*Physics](https://www.sciencedirect.com/journal/international-journal-of-radiation-oncology-biology-physics)).
+Comprehensive evaluation of a deep learning model for automatic organs at risk segmentation on heterogeneous computed tomography images for abdominal radiotherapy (Accepted to [International Journal of Radiation Oncology Biology Physics](https://www.sciencedirect.com/journal/international-journal-of-radiation-oncology-biology-physics)).
 
 ## Notes
 * This work was modified from [nnUNet](https://github.com/MIC-DKFZ/nnUNet).
