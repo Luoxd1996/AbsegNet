@@ -3,7 +3,7 @@ Comprehensive evaluation of a deep learning model for automatic organs at risk s
 
 ## Notes
 * This work was modified from [nnUNet](https://github.com/MIC-DKFZ/nnUNet).
-* Due to data privacy protection, we can not release all-used hospital datasets, but we released 170 cases for academic research: please contact Xiangde (luoxd1996 AT gmail DOT com) for the dataset, please check the access requirement of this dataset in [Here](https://github.com/HiLab-git/WORD)..
+* Due to data privacy protection, we can not release all-used hospital datasets, but we released 170 cases for academic research: please contact Xiangde (luoxd1996 AT gmail DOT com) for the dataset, please check the access requirement of this dataset in [Here](https://github.com/HiLab-git/WORD).
 
 ## How to use
 ### 1. Before you can use this package for abdominal OARs segmentation. You should install:
