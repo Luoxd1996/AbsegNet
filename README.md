@@ -19,7 +19,7 @@ Inference3D(rawf="liver_70_img.nii.gz", save_path="liver_70_pred.nii.gz") # rawf
 
 * This project was originally developed for our previous work [RobustNPC](https://www.sciencedirect.com/science/article/pii/S016781402300018X), if you find it's useful for your research, please consider to cite the followings:
 
-        @article{luo2023deep,
+        @article{liao2023AbsegNet,
         title={Comprehensive evaluation of a deep learning model for automatic organs at risk segmentation on heterogeneous computed tomography images for abdominal radiotherapy},
         author={Liao, Wenjun, Luo, Xiangde, He, Yuan, Dong, Ye, Li, Churong, Li, Kang, Zhang, Shichuan, Zhang, Shaoting, Wang, Guotai, and Jianghong Xiao.},
         journal={ International Journal of Radiation Oncology Biology Physics},
