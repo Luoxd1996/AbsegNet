@@ -17,7 +17,7 @@ from InferRobustABOD import Inference3D
 Inference3D(rawf="liver_70_img.nii.gz", save_path="liver_70_pred.nii.gz") # rawf is the path of input image; save_path is the path of prediction.
 ```
 
-* This project was originally developed for our previous work [RobustNPC](https://www.sciencedirect.com/science/article/pii/S016781402300018X), if you find it's useful for your research, please consider to cite the followings:
+* This project was originally developed for our previous work [AbsegNet](https://www.sciencedirect.com/science/article/abs/pii/S0360301623005205), if you find it's useful for your research, please consider to cite the followings:
 
         @article{liao2023AbsegNet,
         title={Comprehensive evaluation of a deep learning model for automatic organs at risk segmentation on heterogeneous computed tomography images for abdominal radiotherapy},
